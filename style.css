@@ -1,1 +1,33 @@
+img{
+    width: 800px;
+    border-radius: 50px;
+    border: 2px dotted red;
+}
 
+h1{
+    text-align: center;
+    color: red;
+    border: 2px solid red;
+    border-radius: 30px;
+}
+
+h2{
+    text-align: center;
+    color: red;
+}
+
+p{
+    color: red;
+}
+
+body{
+    background-color: black;
+}
+
+a{
+    color: red;
+}
+
+li{
+    color: red;
+}
